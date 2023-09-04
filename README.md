@@ -13,6 +13,7 @@ The prediction for water pollution has been done by using Random Regressor Model
 
 Deforestation Dataset : Deforestation area (km²) by year and state, from 2004 to 2019. The data are public and were extracted from INPE website on December 16th 2019. It was already aggregated, so, no data process was made.
 Attributes : Ano/Estados (Year of occurrence), AC (Deforested area in Acre state (km²)), AM (Deforested area in Amazonas state (km²)), AP (Deforested area in Amapa state (km²)), MA (Deforested area in Maranhao state (km²)), MT (Deforested area in Mato Grosso state (km²)), PA (Deforested area in Para state (km²)), RO (Deforested area in Rondonia state (km²)), RR (Deforested area in Roraima state (km²)), TO (Deforested area in Tocantins state (km²)).
+Target attribute : AMZ Legal.
 
 
 
