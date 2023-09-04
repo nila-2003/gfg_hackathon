@@ -11,6 +11,6 @@ Air quality prediction has been done using LSTM. Optimizer used: Stochastic Grad
 Water Pollution dataset : Combined data for Historical Water Quality in certain locations of India . Pollutants measures in each column is the average values measured over a period of time. 
 The prediction for water pollution has been done by using Random Regressor Model. Most reliable field for prediction : WQI (Water Quality Index).
 
-Deforestation Dataset : 
+Deforestation Dataset : Deforestation area (km²) by year and state, from 2004 to 2019. The data are public and were extracted from INPE website on December 16th 2019. It was already aggregated, so, no data process was made.
 
 
