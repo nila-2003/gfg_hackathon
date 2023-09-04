@@ -21,8 +21,7 @@ Climate Dataset :  columns >>
 * precipitation
 * temp_max
 * temp_min
-* wind
-We are going to predict the weather condition :
+* wind. We are going to predict the weather condition :
 * drizzle
 * rain
 * sun
