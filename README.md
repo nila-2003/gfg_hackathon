@@ -31,7 +31,30 @@ Climate Dataset :  columns >>
 
 The website EcoTech, provides users with a gaming environment that encourages them to save the environment from pollution. The website also has a "Geotagging" feature that allows the user to locate the trees that are most prone to pollution or degradation. The user also has an option of logging in. 
 
+HOME
 
-![Home]("C:\Users\nilas\Downloads\Screenshot (2148).png")
+![Screenshot (2148)](https://github.com/nila-2003/gfg_hackathon/assets/93534905/6fc22dfa-987d-4d16-b307-44d5639e396e)
+
+
+About Us
+
+![Screenshot (2149)](https://github.com/nila-2003/gfg_hackathon/assets/93534905/73652805-1429-49e1-9c4a-346c9c49a5d4)
+
+Game
+
+![Screenshot (2150)](https://github.com/nila-2003/gfg_hackathon/assets/93534905/08c8daeb-4ece-4ec7-90d7-69aaee4bed89)
+
+Contact Us
+
+![Screenshot (2151)](https://github.com/nila-2003/gfg_hackathon/assets/93534905/585c8587-1a5d-4a64-9855-51a74dc289d5)
+
+Geotagging
+
+![Screenshot (2152)](https://github.com/nila-2003/gfg_hackathon/assets/93534905/9e709089-4969-4436-bb7e-cefc657be310)
+
+Predictions
+
+![Screenshot (2153)](https://github.com/nila-2003/gfg_hackathon/assets/93534905/04f7b22a-078a-4a11-99cc-91f34965c7a3)
+
 
 
