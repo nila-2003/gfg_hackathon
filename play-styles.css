@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.game-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #36a65a; /* Green header text color */
+}
+
+#score {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#game-board {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.game-object {
+    width: 100px;
+    height: 100px;
+    background-color: #0078d4; /* Blue object color */
+    margin: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff; /* White text color */
+    font-weight: bold;
+}
+
+.game-object:hover {
+    background-color: #36a65a; /* Green object color on hover */
+}

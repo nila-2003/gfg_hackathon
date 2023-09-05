@@ -1,0 +1,78 @@
+/* predict-styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.predict-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #36a65a; /* Green header text color */
+}
+
+.predict-container p {
+    margin-top: 10px;
+}
+
+.screenshots {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.screenshots img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.screenshot-description {
+    text-align: center;
+    margin: 10px;
+    flex: 1;
+}
+
+.screenshot-description h2 {
+    color: #333; /* Dark text color for screenshot titles */
+}
+
+.screenshot-description p {
+    color: #666; /* Slightly darker text color for descriptions */
+}
+
+nav {
+    background-color: #36a65a; /* Green navigation background */
+    color: #fff; /* White text color */
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff; /* White text color */
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #92cc73; /* Light green hover color */
+}
