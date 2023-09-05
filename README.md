@@ -29,6 +29,9 @@ Climate Dataset :  columns >>
 * fog
 
 
+The website EcoTech, provides users with a gaming environment that encourages them to save the environment from pollution. The website also has a "Geotagging" feature that allows the user to locate the trees that are most prone to pollution or degradation. The user also has an option of logging in. 
 
+
+![Home](C:\Users\nilas\OneDrive\Pictures\Screenshots\Screenshot (2148).png)
 
 
