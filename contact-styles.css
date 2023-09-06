@@ -1,4 +1,3 @@
-/* contact-styles.css */
 
 body {
     font-family: Arial, sans-serif;
@@ -16,7 +15,7 @@ body {
 }
 
 h1 {
-    color: #36a65a; /* Green header text color */
+    color: #36a65a; 
 }
 
 .contact-info {
@@ -33,7 +32,7 @@ h1 {
 }
 
 .contact-form h2 {
-    color: #36a65a; /* Green subheader text color */
+    color: #36a65a; 
 }
 
 form {
@@ -58,8 +57,8 @@ textarea {
 }
 
 button[type="submit"] {
-    background-color: #36a65a; /* Green button background color */
-    color: #fff; /* White text color */
+    background-color: #36a65a; 
+    color: #fff; 
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -69,12 +68,12 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background-color: #0078d4; /* Blue button background color on hover */
+    background-color: #0078d4; 
 }
 
 nav {
-    background-color: #36a65a; /* Green navigation background */
-    color: #fff; /* White text color */
+    background-color: #36a65a; 
+    color: #fff;
     padding: 10px 0;
 }
 
@@ -87,10 +86,10 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: #fff; /* White text color */
+    color: #fff; 
     transition: color 0.3s;
 }
 
 nav a:hover {
-    color: #92cc73; /* Light green hover color */
+    color: #92cc73; 
 }
