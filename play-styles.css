@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    color: #36a65a; /* Green header text color */
+    color: #36a65a; 
 }
 
 #score {
@@ -32,7 +32,7 @@ h1 {
 .game-object {
     width: 100px;
     height: 100px;
-    background-color: #0078d4; /* Blue object color */
+    background-color: #0078d4; 
     margin: 10px;
     border-radius: 50%;
     cursor: pointer;
@@ -42,10 +42,10 @@ h1 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: #fff; /* White text color */
+    color: #fff; 
     font-weight: bold;
 }
 
 .game-object:hover {
-    background-color: #36a65a; /* Green object color on hover */
+    background-color: #36a65a;
 }
