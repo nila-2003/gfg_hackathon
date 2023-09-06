@@ -1,4 +1,3 @@
-// script.js
 
 let map;
 let marker;
@@ -9,19 +8,16 @@ function initMap() {
         zoom: 15,
     });
 
-    // Add a click event listener to the map to place a marker
     map.addListener("click", (event) => {
         placeMarker(event.latLng);
     });
 }
 
 function placeMarker(location) {
-    // Remove existing marker if it exists
     if (marker) {
         marker.setMap(null);
     }
 
-    // Create a new marker at the clicked location
     marker = new google.maps.Marker({
         position: location,
         map: map,
